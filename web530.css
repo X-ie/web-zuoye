@@ -1,0 +1,364 @@
+.header{
+	width:1920px;
+    height: 101px;
+    margin: 0 auto;
+}
+.xueli{
+	display: inline-block;
+	float: left;
+	margin-left: 369px;
+	padding-top: 33px;
+	width:170px;
+	height:39px;
+	font-size:40px;
+	font-family:Microsoft YaHei;
+	font-weight:bold;
+	color:rgba(0,164,255,1);
+}
+.nav{
+	float: left;
+	margin-left: 79px;
+	margin-right: 187px;
+	margin-top: 50px;
+  	font-family:Microsoft YaHei;
+	font-weight:400;
+	color:rgba(5,5,5,1);
+	
+
+}
+.nav li
+{
+	float: left;
+}
+.nav a
+{
+	display: inline-block;
+	width: 100px;
+	text-align: center;
+	padding-bottom: 10px;
+	font-size:18px;
+}
+.nav a:hover{
+	border-bottom: 2px solid rgba(0,164,255,1);
+}
+.form{
+	float: left;
+	margin-top: 31px;
+}
+.search{
+	float: left;
+	width: 411px;
+	height: 30px;
+	border: 1px solid rgba(0,164,255,1);
+	padding-left: 19px;
+	padding-top: 10px;
+	padding-bottom: 10px;}
+
+.form submit{
+float:left;
+width:52px;
+height:42px;
+background:
+rgba(0,164,255,1) url('image/矩形 9.png') no-repeat center center;
+border:1px solid rgba(0,164,255,1);
+
+}
+.geren{
+	float: left;
+	margin-top: 42px;
+	padding-left: 30px;
+}
+
+/* fenjie*/
+.cona{
+	width:1920px;
+	margin: 0 auto;
+    height:420px;
+	background:rgba(28,3,108,1);
+	position: relative;
+}
+.banner2 {
+	padding-left: 450px;
+	padding-right: 330px;
+}
+.qianduan {
+width:190px;
+height:420px;
+position:absolute;
+bottom:0px;
+left:360px;
+background:rgbrgba(0,0,0,1)
+font-size:14px;
+line-height:44px;
+text-indent:56px;	
+
+}
+.qianduan a{color: white;}
+.qianduan a:hover{
+	color:#00b4ff;
+}
+/* disanduan*/
+.conb{
+	height: 20px;
+	width: 1200px;
+
+	
+	background:rgba(255,255,255,1);
+	margin-left: 360px;
+	padding:21px 61px 21px 34px ;
+	box-shadow:0px 2px 2px 0px rgba(118,118,118,0.2);
+}
+.nav2 li{
+	float: left;
+	}
+.nav2 a{
+	display: inline-block;
+	width: 120px;
+	text-align: center;
+	font-size:18px;
+	border-right:1px solid #BFBFBF;
+	font-size: 16px;
+}
+.javaweb2 a{
+	border-right: none;
+}
+.jingpin a{
+	color: #00A3FF;
+	font-size: 18px;
+}
+.xiugaixingqv a{
+	color: #00A3FF;
+	border-right: none;
+	padding-left: 150px;
+
+}
+/*xiayige*/
+.conc{
+	width: 1200px;
+	padding-left: 360px;
+	height: 60px;
+	
+}
+.jptj{
+	float: left;
+	width:80px;
+	height:19px;
+	font-size:20px;
+	font-family:Microsoft YaHei;
+	font-weight:400;
+	color:rgba(72,72,72,1);
+	padding-top: 20px;
+	padding-left: 10px;
+}
+.ckqb{
+	float: right;
+	width:48px;
+	height:13px;
+	font-size:12px;
+	font-family:Microsoft YaHei;
+	font-weight:400;
+	color:rgba(165,165,165,1);
+	padding-top: 25px;
+}
+/*xiayige*/
+.cond{
+	width:1300px;
+	height:270px;
+	margin-left: 360px;	
+
+	
+}
+.cond li{
+	position: relative;
+	width: 233px;
+	height: 270px;
+	float: left;
+	background:rgba(255,255,255,1);
+	box-shadow:0px 2px 4px 0px rgba(118,118,118,0.5);
+    margin-right: 15px;
+    margin-top: 15px;
+}
+.cond img{
+	width: 233px;
+	height: 155px;
+
+} 
+.jiaoshao{
+	position: absolute;
+	font-size:14px;
+	
+}
+.in{
+	width: 190px;
+	margin-left: 23px;
+	margin-top: 15px;
+}
+.ora{
+	color: #FF7B2D;
+	font-size: 12px;
+}
+.gray{
+	color: #5F5F5F;
+	font-size: 12px;
+}
+/*xiayige*/
+.cone{
+	width: 1400px;
+	height: 80px;
+	margin: 0 auto;
+
+}
+.qdkfgcs{
+	width:120px;
+	height:19px;
+	font-size:25px;
+	font-family:Microsoft YaHei;
+	font-weight:400;
+	color:rgba(72,72,72,1);
+}
+.cone li{
+	float: left;
+	width:200px;
+	height:17px;
+	font-size:16px;
+	font-family:Microsoft YaHei;
+	font-weight:400;
+	color:rgba(0,163,255,1);
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+.cone ul{
+	padding-left: 120px;
+}
+/*xia*/
+.conf{
+	width: 1400px;
+	margin: 0 auto;
+}
+.conf ul{
+	padding-left: 110px;
+}
+.conf li{
+	position: relative;
+	width: 232px;
+	height: 270px;
+	float: left;
+	background:rgba(255,255,255,1);
+	box-shadow:0px 2px 4px 0px rgba(118,118,118,0.5);
+    margin-right: 15px;
+    margin-top: 15px;
+
+}
+.conf img{
+	width: 232px'
+}
+/*xia*/
+.cong{
+	width: 1200px;
+	margin: 0 auto;
+}
+.cong p
+{
+	padding-left: 15px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	font-size:20px;
+	font-family:Microsoft YaHei;
+	font-weight:400;
+	color:rgba(72,72,72,1);
+}
+/*xia*/
+.conh{
+	width: 1200px;
+	margin: 0 auto;
+}
+.tu149{
+	float: left;
+	position: relative;
+}
+.biye{
+	position: absolute;
+}
+.conh li{
+	position: relative;
+}
+.conh img{
+	width: 228px;
+	height: 320px;
+	padding-right: 15px;
+}
+
+#JS{
+	width: 420px;
+}
+.conh p{
+	width: 170px;
+	position: absolute;
+	bottom:0px;
+	height:100px;
+	font-size:14px;
+	font-family:Microsoft YaHei;
+	font-weight:400;
+	color:rgba(0,0,0.5);
+	line-height:20px;
+	padding-left: 25px;
+}
+.conh span{
+	position: absolute; 
+	top: 200px;
+	padding-left: 25px;
+}
+.conh in2
+{background: rgba(255, 255, 255, 0.4);}
+/*xia*/
+.coni{
+	width:1800px;
+	height:417px;
+	background:rgba(255,255,255,1);
+	margin-top: 400px;
+}
+.zuobian{
+	float: left; 
+	padding-left: 380px;}
+.coni span{
+	font-size:36px;
+
+font-family:Microsoft YaHei;
+font-weight:bold;
+color:rgba(0,163,255,1);
+line-height:21px;}
+.coni p{
+	margin-top:15px;
+	font-size:12px;
+font-family:SimSun;
+font-weight:400;
+color:rgba(101,101,101,1);
+line-height:18px;
+
+}
+.youbian{
+	float: right;
+	margin-left: 826px;
+}
+.gyxl{
+	float: left;
+	padding-left: 550px;
+}
+.youbian div{
+	float: left;
+	margin-right: 50px;
+
+}
+.coni w{
+	font-size:16px;
+	font-family:Microsoft YaHei;
+	font-weight:400;
+	color:rgba(51,51,51,1);
+	line-height:21px;
+}
+
+
+
+
+
+
